@@ -3,9 +3,10 @@
   <div align="center">
   <a href="https://github.com/ariocal"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Information+Technology+Engineer" /></a>
 </p>
-    </div>
+</div>
+<img align="right" alt="Coding" width="450" src="https://github.com/ariocal/ariocal/blob/main/portada.png">
 
-    <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
