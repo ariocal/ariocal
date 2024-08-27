@@ -5,7 +5,7 @@
 </p>
 </div>
 <div align="center" style="margin-bottom: 10px">
-<img align="right" alt="Coding" width="100%"  src="https://github.com/ariocal/ariocal/blob/main/portadaa.png">
+<img align="right" alt="Coding" width="100%"  src="https://github.com/ariocal/ariocal/blob/main/portada.png">
 </div>  
 
 
