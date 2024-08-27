@@ -6,8 +6,6 @@
 </div>
 <img align="right" alt="Coding" width="450" src="https://github.com/ariocal/ariocal/blob/main/portada.png">
 
-<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 - 🔭 I’m currently working in `Iopex Technologies` as `System Engineer-NOC`
@@ -23,6 +21,8 @@
 - ⚡ Coding fact: "There are over 700 different programming languages".
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
+
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
 
